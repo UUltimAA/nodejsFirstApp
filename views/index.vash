@@ -1,0 +1,13 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>Welcome Pips to your homepage</h1>
+        <span>
+            @model.username
+        </span>
+        <span>
+            @model.email
+        </span>
+    </body>
+</html>

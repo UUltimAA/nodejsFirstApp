@@ -1,0 +1,14 @@
+<html>
+    <head>
+    </head>
+    <body>
+    welcome to homepage!
+    
+    <ul>
+        <li>@model.currentDate</li>
+        <li>@model.randomNum</li>
+        <li>@model.username</li>
+    </ul>
+    
+    </body>
+</html>

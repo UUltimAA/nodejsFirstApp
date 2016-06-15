@@ -1,0 +1,13 @@
+1. Create a new controller (set it up as a nodejs module that's being used by the express app)
+2. the controller with be named calculator
+3. create the following actions/routes
+    a. sum - will return the sum of two parameters
+    b. sub - will return the sumstraction of the second parameter from the first
+    c. div - will return the dividing result of the two parameters
+    d. mul - will return the multiply results of the two parameters
+4. create a new vash page, it's route should be under homepage
+5. the page will show data sent to him as a model by the backend, in an unordered list (<ul>)
+    a. current date
+    b. random number
+    c. static username
+    

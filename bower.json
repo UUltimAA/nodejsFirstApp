@@ -1,0 +1,21 @@
+{
+  "name": "angularLayground",
+  "description": "learning angular js",
+  "main": "main.js",
+  "authors": [
+    "Orel Yaron <orel.yaron@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/UUltimAA/nodejsFirstApp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "bootstrap": "^3.3.6"
+  }
+}
