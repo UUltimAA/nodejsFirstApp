@@ -1,5 +1,7 @@
 <html>
     <head>
+    <script src="/angular/angular.js"></script>
+    <script src="/bootstrap/dist/css/bootstrap.css"></script>
     </head>
     <body>
     welcome to homepage!

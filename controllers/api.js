@@ -136,7 +136,7 @@ router.get('/api/calc',function (req,res) {
         }
     }], function(err,result){
         // console.log(process.env);
-        res.json({error: err, result: result, monPath: process.env.MONGO_PATH});
+        res.json({error: err, result: result});
     });
 
 });

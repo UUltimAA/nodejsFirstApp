@@ -4,6 +4,7 @@ var app = express();
 
 app.set('view engine', 'vash');
 app.use(bodyParser.json());
+app.use(express.static(__dirname + "/bower_components"));
 app.use(require('./controllers/homepage.js'));
 app.use(require('./controllers/calculator.js'));
 

@@ -1,7 +1,6 @@
 {
   "name": "angularLayground",
   "description": "learning angular js",
-  "main": "main.js",
   "authors": [
     "Orel Yaron <orel.yaron@gmail.com>"
   ],
