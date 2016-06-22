@@ -15,7 +15,7 @@
   },
   "scripts:": {
     "postinstall": "bower install",
-    "start": "node index.js"
+    "start": "node main.js"
   },
   "devDependencies": {
     "gulp": "^3.9.1"
