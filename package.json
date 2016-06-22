@@ -14,7 +14,8 @@
     "vash": "^0.11.3"
   },
   "scripts:": {
-    "postinstall": "bower install"
+    "postinstall": "bower install",
+    "start": "node index.js"
   },
   "devDependencies": {
     "gulp": "^3.9.1"
