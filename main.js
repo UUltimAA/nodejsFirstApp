@@ -18,6 +18,7 @@ app.use(require('./controllers/api.js'));
 //   next();
 // });
 
-app.listen(3000, function(){
+var port = process.env.PORT || 3000;
+app.listen(port, function(){
     console.log('Server has gone live');    
 });
